@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![AMGOcyber123's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMGOcyber123&show_icons=true&theme=tokyonight)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMGOcyber123&layout=Demo)](https://github.com/AMGOcyber123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMGOcyber123&layout=Demo&theme=tokyonight)](https://github.com/AMGOcyber123/github-readme-stats)
 <br>
 
