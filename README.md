@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![AMGOcyber123's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMGOcyber123&show_icons=true&theme=tokyonight)
-<br>
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMGOcyber123&layout=Demo&theme=tokyonight)](https://github.com/AMGOcyber123/github-readme-stats)
 <br>
 
