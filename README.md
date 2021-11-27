@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMGOcyber123&layout=Demo&theme=tokyonight)](https://github.com/AMGOcyber123/github-readme-stats)
 <br>
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AMGOcyber123&label=Profile%20views&color=0e75b6&style=flat" alt="AMGOcyber123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AMGOcyber123&label=Profile%20views&color=0e75b6&style=flat" alt="AMGOcyber123" /> </p>
 
 <h3 align="center">📫 Lets connect !</h3>
 <p align = "center">
