@@ -14,4 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMGOcyber123&layout=Demo&theme=tokyonight)](https://github.com/AMGOcyber123/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amgocyber123&show_icons=true&locale=en" alt="amgocyber123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amgocyber123&show_icons=true&locale=en&theme=tokyonight" alt="amgocyber123" /></p>
