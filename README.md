@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMGOcyber123&layout=Demo&theme=tokyonight)](https://github.com/AMGOcyber123/github-readme-stats)
 <br>
 
-## 📫 Lets connect ! 
-- <a href = "https://www.linkedin.com/in/aryavardhan-modi-750872196/">LinkedIn</a>
-- <a href = "https://twitter.com/modi_aayu">Twitter</a>
+
  -->
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AMGOcyber123&label=Profile%20views&color=0e75b6&style=flat" alt="AMGOcyber123" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Lets connect !</h3>
+- <a href = "https://www.linkedin.com/in/aryavardhan-modi-750872196/">LinkedIn</a>
+- <a href = "https://twitter.com/modi_aayu">Twitter</a>
 <p align="left">
 </p>
 
