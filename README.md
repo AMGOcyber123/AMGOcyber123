@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AMGOcyber123&label=Profile%20views&color=0e75b6&style=flat" alt="AMGOcyber123" /> </p>
 
 <h3 align="center">📫 Lets connect !</h3>
+<p align = "center">
 <a href = "https://www.linkedin.com/in/aryavardhan-modi-750872196/">LinkedIn</a>
 <br><a href = "https://twitter.com/modi_aayu">Twitter</a>
-<p align="center">
 </p>
 
 <centre><h3 align="center">Languages and Tools:</h3>
