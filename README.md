@@ -1,4 +1,4 @@
-##  Hi there 👋
+##  Hello there 👋
 ### Aryavardhan Here !!
 <!--
 **AMGOcyber123/AMGOcyber123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AMGOcyber123&label=Profile%20views&color=0e75b6&style=flat" alt="AMGOcyber123" /> </p>
 
 <h3 align="left">📫 Lets connect !</h3>
-- <a href = "https://www.linkedin.com/in/aryavardhan-modi-750872196/">LinkedIn</a>
-- <a href = "https://twitter.com/modi_aayu">Twitter</a>
+<br><a href = "https://www.linkedin.com/in/aryavardhan-modi-750872196/">LinkedIn</a>
+<br><a href = "https://twitter.com/modi_aayu">Twitter</a>
 <p align="left">
 </p>
 
