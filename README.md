@@ -2,6 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amgocyber123&label=Profile%20views&color=0e75b6&style=flat" alt="amgocyber123" /> </p>
 
 - 🌱 I’m currently learning **Node js**
+- ☀️ I love **competitive coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
