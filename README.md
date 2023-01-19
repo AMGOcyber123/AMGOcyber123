@@ -49,4 +49,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  </a> 
 </p>
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AMGOcyber123&show_icons=true&theme=gotham" alt="AMGOcyber123" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AMGOcyber123&show_icons=true" alt="AMGOcyber123" />
